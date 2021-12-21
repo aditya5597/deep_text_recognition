@@ -1,0 +1,2 @@
+Drive link to the Text spotting trained model
+https://drive.google.com/file/d/1jOxhZoialCNfWyFzKC1lt3m8kH7P8hDY/view?usp=sharing
